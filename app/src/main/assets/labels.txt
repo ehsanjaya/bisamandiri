@@ -1,0 +1,4 @@
+Dapur
+Kamar Tidur
+Ruang Tamu
+Toilet
